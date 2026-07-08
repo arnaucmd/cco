@@ -3,7 +3,7 @@
     {
       "name": "Amatsuko",
 	  "descripció": "Joc d'exploració i puzzles. Dificultat moderada.",
-      "steam": "https://store.steampowered.com/app/3816450/Amatsuko/",
+      "steam": "https://store.steampowered.com/app/3816450/Amatsuko/"
     },
     {
       "name": "La Tomba d'Arquímedes",
@@ -15,11 +15,18 @@
 	  "type": "serie",
 	  "descripció": "Jocs de po immersius. Curts i fàcils.",
 	  "steam": "https://store.steampowered.com/app/654321/"
-	}
+	  "games":[
 		{
 		  "name": "Documents CCO: Senglar",
 		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
 		  "steam": "https://store.steampowered.com/app/654321/"
+		},
+		{
+		  "name": "Documents CCO: Cap Gros",
+		  "descripció": "Comencen a apareixer cap grossos de persones desaparegudes.",
+		  "steam": "https://store.steampowered.com/app/654321/"
 		}
+	  ]
+	}
   ]
 }
