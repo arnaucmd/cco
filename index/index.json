@@ -3,12 +3,14 @@
     {
       "name": "La Tomba d'Arquímedes",
 	  "descripció": "Joc d'exploració i puzzles. Dificultat inhumana.",
-      "steam": "https://store.steampowered.com/app/654321/"
+      "steam": "https://store.steampowered.com/app/654321/",
+	  "release_order_num":3
     },
     {
       "name": "Amatsuko",
 	  "descripció": "Joc d'exploració i puzzles. Dificultat moderada.",
-      "steam": "https://store.steampowered.com/app/3816450/Amatsuko/"
+      "steam": "https://store.steampowered.com/app/3816450/Amatsuko/",
+	  "release_order_num":0
     },
 	{
 	  "name": "Documents CCO:",
@@ -19,12 +21,14 @@
 		{
 		  "name": "Documents CCO: Senglar",
 		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
-		  "steam": "https://store.steampowered.com/app/654321/"
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":1
 		},
 		{
 		  "name": "Documents CCO: Cal Jaç",
 		  "descripció": "Comencen a apareixer cap grossos de persones desaparegudes.",
-		  "steam": "https://store.steampowered.com/app/654321/"
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":2
 		}
 	  ]
 	}
