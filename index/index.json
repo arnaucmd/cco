@@ -1,14 +1,14 @@
 {
   "games": [
     {
-      "name": "Amatsuko",
-	  "descripció": "Joc d'exploració i puzzles. Dificultat moderada.",
-      "steam": "https://store.steampowered.com/app/3816450/Amatsuko/"
-    },
-    {
       "name": "La Tomba d'Arquímedes",
 	  "descripció": "Joc d'exploració i puzzles. Dificultat inhumana.",
       "steam": "https://store.steampowered.com/app/654321/"
+    },
+    {
+      "name": "Amatsuko",
+	  "descripció": "Joc d'exploració i puzzles. Dificultat moderada.",
+      "steam": "https://store.steampowered.com/app/3816450/Amatsuko/"
     },
 	{
 	  "name": "Documents CCO:",
@@ -22,7 +22,7 @@
 		  "steam": "https://store.steampowered.com/app/654321/"
 		},
 		{
-		  "name": "Documents CCO: Cap Gros",
+		  "name": "Documents CCO: Cal Jaç",
 		  "descripció": "Comencen a apareixer cap grossos de persones desaparegudes.",
 		  "steam": "https://store.steampowered.com/app/654321/"
 		}
