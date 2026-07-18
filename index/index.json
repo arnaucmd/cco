@@ -22,11 +22,72 @@
 		  "name": "Documents CCO: Senglar",
 		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
 		  "steam": "https://store.steampowered.com/app/654321/",
-		  "release_order_num":1
+		  "release_order_num":4
+		},
+		{
+		  "name": "Documents CCO: Senglar",
+		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":5
+		},
+		{
+		  "name": "Documents CCO: Senglar",
+		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":6
+		},
+		{
+		  "name": "Documents CCO: Senglar",
+		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":7
+		},
+		{
+		  "name": "Documents CCO: Senglar",
+		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":8
+		},
+		{
+		  "name": "Documents CCO: Senglar",
+		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":9
+		},
+		{
+		  "name": "Documents CCO: Senglar",
+		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":10
+		},
+		{
+		  "name": "Documents CCO: Senglar",
+		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
+		  "steam": "https://store.steampowered.com/app/654321/",
+		  "release_order_num":1,
+		  "credits":
+		  [
+			"assets":
+			[
+				"wild boar grunting squealing:https://freesound.org/people/TheVeoMammoth11/sounds/492654/",
+				"https://sketchfab.com/3d-models/feluy-village-house-1-belgium-9304c869ff07425399a054d548bdf4fb",
+				"https://sketchfab.com/3d-models/nivelles-house-10b-belgium-e837c48da1a24890a2b43123857e1fe6",
+				"https://sketchfab.com/3d-models/nivelles-house-10-belgium-bfc66126b51a448faa3db605d9b6b4a9",
+				"https://sketchfab.com/3d-models/troyes-house-3-france-0bbe8284b4db4c60970dd4ebb01ea6f2",
+				"https://sketchfab.com/3d-models/building-optimize-game-ready-ba3769744767463f89d9fc2737c35944",
+				"https://sketchfab.com/3d-models/building-game-ready-ccee05071ce64524adf1c28648e90ac3",
+				"https://sketchfab.com/3d-models/nivelles-house-9-belgium-9a6bbcb6da704592b368e29b87cac11d",
+				"https://sketchfab.com/3d-models/nivelles-house-1-belgium-592cc5891ef34ab98abdeaa8b9b1fba8",
+				"https://sketchfab.com/3d-models/fumay-house-1-france-b75d4fbbee614c4898ee5214b9fd04aa",
+				"https://sketchfab.com/3d-models/low-poly-pack-alcohol-bottles-98ffcad6a45c4a71922227bf0005590e",
+				"https://sketchfab.com/3d-models/free-dirt-road-through-forest-c4676cdf7715484382400ff63faffd45",
+
+			]
+		  ]
 		},
 		{
 		  "name": "Documents CCO: Cal Jaç",
-		  "descripció": "Comencen a apareixer cap grossos de persones desaparegudes.",
+		  "descripció": "Ets un arquitecte que ha d'inspeccionar una antiga mansió.",
 		  "steam": "https://store.steampowered.com/app/654321/",
 		  "release_order_num":2
 		}
