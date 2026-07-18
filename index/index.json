@@ -66,9 +66,9 @@
 		  "steam": "https://store.steampowered.com/app/654321/",
 		  "release_order_num":1,
 		  "credits":
-		  [
+			{
 			"assets":
-			[
+				[
 				"wild boar grunting squealing:https://freesound.org/people/TheVeoMammoth11/sounds/492654/",
 				"https://sketchfab.com/3d-models/feluy-village-house-1-belgium-9304c869ff07425399a054d548bdf4fb",
 				"https://sketchfab.com/3d-models/nivelles-house-10b-belgium-e837c48da1a24890a2b43123857e1fe6",
@@ -81,9 +81,8 @@
 				"https://sketchfab.com/3d-models/fumay-house-1-france-b75d4fbbee614c4898ee5214b9fd04aa",
 				"https://sketchfab.com/3d-models/low-poly-pack-alcohol-bottles-98ffcad6a45c4a71922227bf0005590e",
 				"https://sketchfab.com/3d-models/free-dirt-road-through-forest-c4676cdf7715484382400ff63faffd45",
-
-			]
-		  ]
+				]
+			}
 		},
 		{
 		  "name": "Documents CCO: Cal Jaç",
