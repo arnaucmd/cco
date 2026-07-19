@@ -22,9 +22,25 @@
 		  "name": "Documents CCO: Senglar",
 		  "descripció": "Una plaga de senglars, un culte extrany i desaparicions",
 		  "steam": "https://store.steampowered.com/app/654321/",
+		  "itchio": "https://arnaucco.itch.io/",
 		  "release_order_num":1,
 		  "credits":
 			{
+			"devs":
+			{
+				"Arnau":
+				{
+					"linktree":"https://linktr.ee/arnaucco",
+					"feina":"tot",
+				}
+			},
+			"gràcies":
+			[
+				"Francina",
+				"Josefat",
+				"Alà",
+				"Ximpanzè Baldric, el xamàn pitxa-fluixa"
+			],
 			"assets":
 				[
 				"wild boar grunting squealing:https://freesound.org/people/TheVeoMammoth11/sounds/492654/",
